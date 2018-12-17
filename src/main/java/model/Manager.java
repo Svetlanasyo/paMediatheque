@@ -1,11 +1,17 @@
 package model;
 
-public abstract class Manager implements ManagerInterface {
+public class Manager implements ManagerInterface {
     private String name;
 
-    public abstract void addNewMediaItemToLibrary(MediaItem mediaItem);
+    public void addNewMediaItemToLibrary(MediaItem mediaItem) {
 
-    public abstract void removeMediaItemFromLibrary(MediaItem mediaItem);
+    }
 
-    public abstract MediaItem editMediaItem(MediaItem mediaItem);
+    public  void removeMediaItemFromLibrary(MediaItem mediaItem) {
+
+    }
+
+    public MediaItem editMediaItem(MediaItem mediaItem){
+        return null;
+    }
 }

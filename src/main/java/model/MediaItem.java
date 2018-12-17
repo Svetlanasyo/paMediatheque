@@ -42,14 +42,27 @@ public abstract class MediaItem {
         this.author = author;
     }
 
+    public void setIsRent(boolean isRent) {
+        this.isRent = isRent;
+    }
+
     public abstract boolean isFind(String metaData);
 
     public abstract boolean isPreview();
 
-    public abstract void returnMediaItem();
+    public void returnMediaItem() {
 
-    public abstract void rentMediaItem();
+    }
 
-    public abstract void reservedMediaItem();
+    public boolean checkIsMediaItemAvailable() {
+        if (isRent == false) {
+            return true;
+        }
+        return false;
+    }
+
+    public void reservedMediaItem() {
+
+    }
 
 }

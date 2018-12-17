@@ -1,8 +1,11 @@
 package model;
 
-public abstract class Movie extends MediaItem implements Watchable {
+public class Movie extends MediaItem implements Watchable {
     @Override
     public boolean isFind(String metaData) {
+        if (getName().contains(metaData)) {
+            return true;
+        }
         return false;
     }
 
@@ -23,5 +26,7 @@ public abstract class Movie extends MediaItem implements Watchable {
     public void reservedMediaItem() {
     }
 
-    public abstract void canBeWatched();
+    public void canBeWatched() {
+
+    }
 }

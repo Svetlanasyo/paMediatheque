@@ -3,11 +3,16 @@ package model;
 import java.util.ArrayList;
 import java.util.List;
 
-public abstract class User implements UserInterface {
+public class User implements UserInterface {
     private String name;
     private List<MediaItem> myRentedMediaItem = new ArrayList<MediaItem>();
 
-    public abstract MediaItem findMediaItemToReturn(String mediaItemName);
+    public MediaItem findMediaItemToReturn(String mediaItemName) {
+        return null;
+    }
 
-    public abstract void addMediaItenToMyRentedMediaItem(MediaItem mediaItem);
+    public void addMediaItenToMyRentedMediaItem(MediaItem mediaItem) {
+        mediaItem.setIsRent(true);
+        myRentedMediaItem.add(mediaItem);
+    }
 }

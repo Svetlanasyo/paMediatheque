@@ -2,25 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a762ce39-7102-4b5e-afe8-47fc0e9ed2cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/AudioBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Listernable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/ManagerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/MediaItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Mediatheque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Readable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/UserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Watchable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/MediathequeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diagramClass.uml" beforeDir="false" afterPath="$PROJECT_DIR$/diagramClass.uml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paMediatheque.iml" beforeDir="false" afterPath="$PROJECT_DIR$/paMediatheque.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/AudioBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/AudioBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/MediaItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/MediaItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Mediatheque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Mediatheque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,125 +24,223 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/Mediatheque.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#854#855#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/model/MediathequeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/AudioBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/MediaItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+              <folding>
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#887#888#0" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/Movie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <folding>
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/diagramClass.uml">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
               <OriginalElement />
               <nodes>
-                <node x="1366.1184210526314" y="559.0">model.Book</node>
+                <node x="1340.3311011904761" y="579.0">model.Book</node>
+                <node x="0.0" y="1254.0">junit</node>
                 <node x="0.0" y="216.5">model.Watchable</node>
-                <node x="997.625" y="964.0">model.Mediatheque</node>
-                <node x="1456.3684210526314" y="216.5">model.Readable</node>
-                <node x="1710.8684210526314" y="216.5">model.Listernable</node>
-                <node x="893.1184210526314" y="785.0">model.User</node>
-                <node x="733.4197368421052" y="607.0">model.UserInterface</node>
-                <node x="46.75" y="559.0">model.Movie</node>
-                <node x="1633.1184210526314" y="559.0">model.AudioBook</node>
-                <node x="313.75" y="595.0">model.ManagerInterface</node>
-                <node x="1084.7144736842104" y="0.0">model.MediaItem</node>
-                <node x="415.4197368421052" y="785.0">model.Manager</node>
+                <node x="954.7492559523807" y="984.0">model.Mediatheque</node>
+                <node x="1451.1644345238094" y="216.5">model.Readable</node>
+                <node x="1705.6644345238094" y="216.5">model.Listernable</node>
+                <node x="867.3311011904761" y="805.0">model.User</node>
+                <node x="740.8311011904761" y="627.0">model.UserInterface</node>
+                <node x="56.83110119047615" y="579.0">model.Movie</node>
+                <node x="1607.3311011904761" y="579.0">model.AudioBook</node>
+                <node x="324.83110119047615" y="615.0">model.ManagerInterface</node>
+                <node x="1082.3311011904761" y="0.0">model.MediaItem</node>
+                <node x="220.58110119047615" y="805.0">model.Manager</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="model.AudioBook" target="model.MediaItem">
-                  <point x="-61.75" y="-88.0" />
-                  <point x="1694.8684210526314" y="509.0" />
-                  <point x="1325.0644736842105" y="509.0" />
-                  <point x="113.85000000000014" y="244.5" />
-                </edge>
                 <edge source="model.Movie" target="model.Watchable">
-                  <point x="-61.75" y="-88.0" />
+                  <point x="-82.33333333333326" y="-88.0" />
+                  <point x="97.99776785714289" y="559.0" />
+                  <point x="108.5" y="559.0" />
                   <point x="0.0" y="28.0" />
                 </edge>
                 <edge source="model.Mediatheque" target="model.MediaItem">
                   <point x="146.625" y="-112.5" />
-                  <point x="1339.75" y="944.0" />
-                  <point x="1355.6184210526314" y="944.0" />
-                  <point x="1355.6184210526314" y="529.0" />
-                  <point x="1274.4644736842104" y="529.0" />
-                  <point x="63.25" y="244.5" />
+                  <point x="1296.8742559523807" y="964.0" />
+                  <point x="1329.8311011904761" y="964.0" />
+                  <point x="1329.8311011904761" y="549.0" />
+                  <point x="1254.0096726190477" y="549.0" />
+                  <point x="45.178571428571445" y="244.5" />
+                </edge>
+                <edge source="model.AudioBook" target="model.MediaItem">
+                  <point x="0.0" y="-88.0" />
+                  <point x="1730.8311011904761" y="509.0" />
+                  <point x="1326.295386904762" y="509.0" />
+                  <point x="117.46428571428578" y="244.5" />
                 </edge>
                 <edge source="model.User" target="model.UserInterface">
-                  <point x="-147.0" y="-64.5" />
-                  <point x="966.6184210526314" y="760.0" />
-                  <point x="953.9197368421052" y="760.0" />
+                  <point x="-165.375" y="-64.5" />
+                  <point x="922.4561011904761" y="785.0" />
+                  <point x="961.3311011904761" y="785.0" />
                   <point x="0.0" y="40.0" />
                 </edge>
                 <edge source="model.Manager" target="model.MediaItem">
-                  <point x="99.0" y="-64.5" />
-                  <point x="712.4197368421052" y="760.0" />
-                  <point x="720.25" y="760.0" />
-                  <point x="720.25" y="529.0" />
-                  <point x="1147.9644736842104" y="529.0" />
-                  <point x="-63.25" y="244.5" />
+                  <point x="-99.0" y="-64.5" />
+                  <point x="319.58110119047615" y="785.0" />
+                  <point x="314.33110119047615" y="785.0" />
+                  <point x="314.33110119047615" y="539.0" />
+                  <point x="1127.5096726190477" y="539.0" />
+                  <point x="-81.32142857142856" y="244.5" />
                 </edge>
                 <edge source="model.UserInterface" target="model.MediaItem">
                   <point x="0.0" y="-40.0" />
-                  <point x="953.9197368421052" y="539.0" />
-                  <point x="1173.2644736842103" y="539.0" />
-                  <point x="-37.950000000000045" y="244.5" />
+                  <point x="961.3311011904761" y="559.0" />
+                  <point x="1163.6525297619046" y="559.0" />
+                  <point x="-45.178571428571445" y="244.5" />
                 </edge>
                 <edge source="model.Manager" target="model.ManagerInterface">
-                  <point x="-99.0" y="-64.5" />
-                  <point x="514.4197368421052" y="760.0" />
-                  <point x="511.75" y="760.0" />
+                  <point x="99.0" y="-64.5" />
+                  <point x="517.5811011904761" y="785.0" />
+                  <point x="522.8311011904761" y="785.0" />
                   <point x="0.0" y="52.0" />
                 </edge>
                 <edge source="model.Book" target="model.MediaItem">
-                  <point x="-61.75" y="-88.0" />
-                  <point x="1427.8684210526314" y="519.0" />
-                  <point x="1299.7644736842105" y="519.0" />
-                  <point x="88.55000000000007" y="244.5" />
+                  <point x="-82.33333333333326" y="-88.0" />
+                  <point x="1381.497767857143" y="539.0" />
+                  <point x="1272.0811011904761" y="539.0" />
+                  <point x="63.25" y="244.5" />
                 </edge>
                 <edge source="model.Mediatheque" target="model.User">
                   <point x="-48.875" y="-112.5" />
-                  <point x="1144.25" y="944.0" />
-                  <point x="1113.6184210526314" y="944.0" />
+                  <point x="1101.3742559523807" y="964.0" />
+                  <point x="1087.8311011904761" y="964.0" />
                   <point x="0.0" y="64.5" />
                 </edge>
                 <edge source="model.AudioBook" target="model.Listernable">
-                  <point x="61.75" y="-88.0" />
+                  <point x="82.33333333333331" y="-88.0" />
                   <point x="0.0" y="28.0" />
                 </edge>
                 <edge source="model.ManagerInterface" target="model.MediaItem">
                   <point x="0.0" y="-52.0" />
-                  <point x="511.75" y="519.0" />
-                  <point x="1122.6644736842104" y="519.0" />
-                  <point x="-88.54999999999995" y="244.5" />
+                  <point x="522.8311011904761" y="549.0" />
+                  <point x="1145.5811011904761" y="549.0" />
+                  <point x="-63.25" y="244.5" />
                 </edge>
                 <edge source="model.Mediatheque" target="model.Manager">
                   <point x="-146.625" y="-112.5" />
-                  <point x="1046.5" y="944.0" />
-                  <point x="613.4197368421052" y="944.0" />
+                  <point x="1003.6242559523807" y="964.0" />
+                  <point x="418.58110119047615" y="964.0" />
                   <point x="0.0" y="64.5" />
                 </edge>
                 <edge source="model.Book" target="model.Readable">
-                  <point x="61.75" y="-88.0" />
+                  <point x="82.33333333333326" y="-88.0" />
                   <point x="0.0" y="28.0" />
                 </edge>
                 <edge source="model.Movie" target="model.MediaItem">
-                  <point x="61.75" y="-88.0" />
-                  <point x="232.0" y="509.0" />
-                  <point x="1097.3644736842105" y="509.0" />
-                  <point x="-113.85000000000002" y="244.5" />
+                  <point x="0.0" y="-88.0" />
+                  <point x="180.33110119047615" y="519.0" />
+                  <point x="1091.3668154761904" y="519.0" />
+                  <point x="-117.46428571428578" y="244.5" />
                 </edge>
                 <edge source="model.User" target="model.MediaItem">
-                  <point x="0.0" y="-64.5" />
-                  <point x="1113.6184210526314" y="760.0" />
-                  <point x="1184.919736842105" y="760.0" />
-                  <point x="1184.919736842105" y="539.0" />
-                  <point x="1198.5644736842105" y="539.0" />
-                  <point x="-12.649999999999977" y="244.5" />
+                  <point x="165.375" y="-64.5" />
+                  <point x="1253.2061011904761" y="785.0" />
+                  <point x="1214.3311011904761" y="785.0" />
+                  <point x="1214.3311011904761" y="559.0" />
+                  <point x="1217.8668154761904" y="559.0" />
+                  <point x="9.03571428571422" y="244.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="1099.142857142857" y="970.5714285714286" />
-              <SelectedNodes />
+              <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="752.8571428571429" y="410.85714285714283" />
+              <SelectedNodes>
+                <node>model.ManagerInterface</node>
+              </SelectedNodes>
               <Categories>
                 <Category>Fields</Category>
                 <Category>Methods</Category>
@@ -163,28 +252,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/MediaItem.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/Readable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-              <folding>
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#727#728#0" expanded="true" />
-                <element signature="e#760#761#0" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-8">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/Watchable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -196,6 +276,8 @@
       <list>
         <option value="Class" />
         <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -205,7 +287,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/model/Manager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/AudioBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Movie.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/MediaItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Mediatheque.java" />
+        <option value="$PROJECT_DIR$/src/test/java/model/MediathequeTest.java" />
       </list>
     </option>
   </component>
@@ -271,10 +360,21 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545043962944" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545048393099" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -287,6 +387,46 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MediathequeTest.findItemsByMetaDataWhenLibraryHasNot">
+    <configuration name="MediathequeTest.findItemsByMetaDataWhenLibraryHas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="paMediatheque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.MediathequeTest" />
+      <option name="METHOD_NAME" value="findItemsByMetaDataWhenLibraryHas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediathequeTest.findItemsByMetaDataWhenLibraryHasNot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="paMediatheque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.MediathequeTest" />
+      <option name="METHOD_NAME" value="findItemsByMetaDataWhenLibraryHasNot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MediathequeTest.findItemsByMetaDataWhenLibraryHasNot" />
+        <item itemvalue="JUnit.MediathequeTest.findItemsByMetaDataWhenLibraryHas" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -302,32 +442,40 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MediathequeTest_findItemsByMetaDataWhenLibraryHas - 2018.12.17 at 12h 43m 52s.xml">
+      <configuration name="MediathequeTest.findItemsByMetaDataWhenLibraryHas" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MediathequeTest_findItemsByMetaDataWhenLibraryHasNot - 2018.12.17 at 12h 44m 08s.xml">
+      <configuration name="MediathequeTest.findItemsByMetaDataWhenLibraryHasNot" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5258000" />
+    <option name="totallyTimeSpent" value="8160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33023256" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33023256" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -338,6 +486,36 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33023256" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -350,34 +528,61 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/UserInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/MediaItem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="210">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding>
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#760#761#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Listernable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/AudioBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -388,120 +593,176 @@
           <ID>JAVA</ID>
           <OriginalElement />
           <nodes>
-            <node x="1366.1184210526314" y="559.0">model.Book</node>
+            <node x="1340.3311011904761" y="579.0">model.Book</node>
+            <node x="0.0" y="1254.0">junit</node>
             <node x="0.0" y="216.5">model.Watchable</node>
-            <node x="997.625" y="964.0">model.Mediatheque</node>
-            <node x="1456.3684210526314" y="216.5">model.Readable</node>
-            <node x="1710.8684210526314" y="216.5">model.Listernable</node>
-            <node x="893.1184210526314" y="785.0">model.User</node>
-            <node x="733.4197368421052" y="607.0">model.UserInterface</node>
-            <node x="46.75" y="559.0">model.Movie</node>
-            <node x="1633.1184210526314" y="559.0">model.AudioBook</node>
-            <node x="313.75" y="595.0">model.ManagerInterface</node>
-            <node x="1084.7144736842104" y="0.0">model.MediaItem</node>
-            <node x="415.4197368421052" y="785.0">model.Manager</node>
+            <node x="954.7492559523807" y="984.0">model.Mediatheque</node>
+            <node x="1451.1644345238094" y="216.5">model.Readable</node>
+            <node x="1705.6644345238094" y="216.5">model.Listernable</node>
+            <node x="867.3311011904761" y="805.0">model.User</node>
+            <node x="740.8311011904761" y="627.0">model.UserInterface</node>
+            <node x="56.83110119047615" y="579.0">model.Movie</node>
+            <node x="1607.3311011904761" y="579.0">model.AudioBook</node>
+            <node x="324.83110119047615" y="615.0">model.ManagerInterface</node>
+            <node x="1082.3311011904761" y="0.0">model.MediaItem</node>
+            <node x="220.58110119047615" y="805.0">model.Manager</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="model.AudioBook" target="model.MediaItem">
-              <point x="-61.75" y="-88.0" />
-              <point x="1694.8684210526314" y="509.0" />
-              <point x="1325.0644736842105" y="509.0" />
-              <point x="113.85000000000014" y="244.5" />
-            </edge>
             <edge source="model.Movie" target="model.Watchable">
-              <point x="-61.75" y="-88.0" />
+              <point x="-82.33333333333326" y="-88.0" />
+              <point x="97.99776785714289" y="559.0" />
+              <point x="108.5" y="559.0" />
               <point x="0.0" y="28.0" />
             </edge>
             <edge source="model.Mediatheque" target="model.MediaItem">
               <point x="146.625" y="-112.5" />
-              <point x="1339.75" y="944.0" />
-              <point x="1355.6184210526314" y="944.0" />
-              <point x="1355.6184210526314" y="529.0" />
-              <point x="1274.4644736842104" y="529.0" />
-              <point x="63.25" y="244.5" />
+              <point x="1296.8742559523807" y="964.0" />
+              <point x="1329.8311011904761" y="964.0" />
+              <point x="1329.8311011904761" y="549.0" />
+              <point x="1254.0096726190477" y="549.0" />
+              <point x="45.178571428571445" y="244.5" />
+            </edge>
+            <edge source="model.AudioBook" target="model.MediaItem">
+              <point x="0.0" y="-88.0" />
+              <point x="1730.8311011904761" y="509.0" />
+              <point x="1326.295386904762" y="509.0" />
+              <point x="117.46428571428578" y="244.5" />
             </edge>
             <edge source="model.User" target="model.UserInterface">
-              <point x="-147.0" y="-64.5" />
-              <point x="966.6184210526314" y="760.0" />
-              <point x="953.9197368421052" y="760.0" />
+              <point x="-165.375" y="-64.5" />
+              <point x="922.4561011904761" y="785.0" />
+              <point x="961.3311011904761" y="785.0" />
               <point x="0.0" y="40.0" />
             </edge>
             <edge source="model.Manager" target="model.MediaItem">
-              <point x="99.0" y="-64.5" />
-              <point x="712.4197368421052" y="760.0" />
-              <point x="720.25" y="760.0" />
-              <point x="720.25" y="529.0" />
-              <point x="1147.9644736842104" y="529.0" />
-              <point x="-63.25" y="244.5" />
+              <point x="-99.0" y="-64.5" />
+              <point x="319.58110119047615" y="785.0" />
+              <point x="314.33110119047615" y="785.0" />
+              <point x="314.33110119047615" y="539.0" />
+              <point x="1127.5096726190477" y="539.0" />
+              <point x="-81.32142857142856" y="244.5" />
             </edge>
             <edge source="model.UserInterface" target="model.MediaItem">
               <point x="0.0" y="-40.0" />
-              <point x="953.9197368421052" y="539.0" />
-              <point x="1173.2644736842103" y="539.0" />
-              <point x="-37.950000000000045" y="244.5" />
+              <point x="961.3311011904761" y="559.0" />
+              <point x="1163.6525297619046" y="559.0" />
+              <point x="-45.178571428571445" y="244.5" />
             </edge>
             <edge source="model.Manager" target="model.ManagerInterface">
-              <point x="-99.0" y="-64.5" />
-              <point x="514.4197368421052" y="760.0" />
-              <point x="511.75" y="760.0" />
+              <point x="99.0" y="-64.5" />
+              <point x="517.5811011904761" y="785.0" />
+              <point x="522.8311011904761" y="785.0" />
               <point x="0.0" y="52.0" />
             </edge>
             <edge source="model.Book" target="model.MediaItem">
-              <point x="-61.75" y="-88.0" />
-              <point x="1427.8684210526314" y="519.0" />
-              <point x="1299.7644736842105" y="519.0" />
-              <point x="88.55000000000007" y="244.5" />
+              <point x="-82.33333333333326" y="-88.0" />
+              <point x="1381.497767857143" y="539.0" />
+              <point x="1272.0811011904761" y="539.0" />
+              <point x="63.25" y="244.5" />
             </edge>
             <edge source="model.Mediatheque" target="model.User">
               <point x="-48.875" y="-112.5" />
-              <point x="1144.25" y="944.0" />
-              <point x="1113.6184210526314" y="944.0" />
+              <point x="1101.3742559523807" y="964.0" />
+              <point x="1087.8311011904761" y="964.0" />
               <point x="0.0" y="64.5" />
             </edge>
             <edge source="model.AudioBook" target="model.Listernable">
-              <point x="61.75" y="-88.0" />
+              <point x="82.33333333333331" y="-88.0" />
               <point x="0.0" y="28.0" />
             </edge>
             <edge source="model.ManagerInterface" target="model.MediaItem">
               <point x="0.0" y="-52.0" />
-              <point x="511.75" y="519.0" />
-              <point x="1122.6644736842104" y="519.0" />
-              <point x="-88.54999999999995" y="244.5" />
+              <point x="522.8311011904761" y="549.0" />
+              <point x="1145.5811011904761" y="549.0" />
+              <point x="-63.25" y="244.5" />
             </edge>
             <edge source="model.Mediatheque" target="model.Manager">
               <point x="-146.625" y="-112.5" />
-              <point x="1046.5" y="944.0" />
-              <point x="613.4197368421052" y="944.0" />
+              <point x="1003.6242559523807" y="964.0" />
+              <point x="418.58110119047615" y="964.0" />
               <point x="0.0" y="64.5" />
             </edge>
             <edge source="model.Book" target="model.Readable">
-              <point x="61.75" y="-88.0" />
+              <point x="82.33333333333326" y="-88.0" />
               <point x="0.0" y="28.0" />
             </edge>
             <edge source="model.Movie" target="model.MediaItem">
-              <point x="61.75" y="-88.0" />
-              <point x="232.0" y="509.0" />
-              <point x="1097.3644736842105" y="509.0" />
-              <point x="-113.85000000000002" y="244.5" />
+              <point x="0.0" y="-88.0" />
+              <point x="180.33110119047615" y="519.0" />
+              <point x="1091.3668154761904" y="519.0" />
+              <point x="-117.46428571428578" y="244.5" />
             </edge>
             <edge source="model.User" target="model.MediaItem">
-              <point x="0.0" y="-64.5" />
-              <point x="1113.6184210526314" y="760.0" />
-              <point x="1184.919736842105" y="760.0" />
-              <point x="1184.919736842105" y="539.0" />
-              <point x="1198.5644736842105" y="539.0" />
-              <point x="-12.649999999999977" y="244.5" />
+              <point x="165.375" y="-64.5" />
+              <point x="1253.2061011904761" y="785.0" />
+              <point x="1214.3311011904761" y="785.0" />
+              <point x="1214.3311011904761" y="559.0" />
+              <point x="1217.8668154761904" y="559.0" />
+              <point x="9.03571428571422" y="244.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="1099.142857142857" y="970.5714285714286" />
-          <SelectedNodes />
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="752.8571428571429" y="410.85714285714283" />
+          <SelectedNodes>
+            <node>model.ManagerInterface</node>
+          </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
             <Category>Methods</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/MediaItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+          <folding>
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Mediatheque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/model/MediathequeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

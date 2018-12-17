@@ -1,8 +1,11 @@
 package model;
 
-public abstract class Book extends MediaItem implements Readable {
+public class Book extends MediaItem implements Readable {
     @Override
     public boolean isFind(String metaData) {
+        if (getName().contains(metaData)) {
+            return true;
+        }
         return false;
     }
 
@@ -23,5 +26,7 @@ public abstract class Book extends MediaItem implements Readable {
     public void reservedMediaItem() {
     }
 
-    public abstract void canBeRead();
+    public void canBeRead(){
+
+    }
 }

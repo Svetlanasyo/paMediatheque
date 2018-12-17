@@ -1,8 +1,11 @@
 package model;
 
-public abstract class AudioBook extends MediaItem implements Listernable {
+public class AudioBook extends MediaItem implements Listernable {
     @Override
     public boolean isFind(String metaData) {
+        if (getName().contains(metaData)) {
+            return true;
+        }
         return false;
     }
 
@@ -23,5 +26,7 @@ public abstract class AudioBook extends MediaItem implements Listernable {
     public void reservedMediaItem() {
     }
 
-    public abstract void canBeListened();
+    public void canBeListened() {
+
+    }
 }
