@@ -2,12 +2,112 @@
 <Diagram>
   <ID>JAVA</ID>
   <OriginalElement />
-  <nodes />
+  <nodes>
+    <node x="1248.182098765432" y="559.0">model.Book</node>
+    <node x="0.0" y="216.5">model.Watchable</node>
+    <node x="899.125" y="964.0">model.Mediatheque</node>
+    <node x="1338.432098765432" y="216.5">model.Readable</node>
+    <node x="1592.932098765432" y="216.5">model.Listernable</node>
+    <node x="480.1820987654321" y="785.0">model.User</node>
+    <node x="313.75" y="607.0">model.UserInterface</node>
+    <node x="46.75" y="559.0">model.Movie</node>
+    <node x="1515.182098765432" y="559.0">model.AudioBook</node>
+    <node x="820.1820987654321" y="607.0">model.ManagerInterface</node>
+    <node x="888.7939814814815" y="0.0">model.MediaItem</node>
+    <node x="941.1820987654321" y="821.5">model.Manager</node>
+  </nodes>
   <notes />
-  <edges />
-  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
-  <SelectedNodes />
-  <Categories />
+  <edges>
+    <edge source="model.AudioBook" target="model.MediaItem">
+      <point x="-61.75" y="-88.0" />
+      <point x="1576.932098765432" y="509.0" />
+      <point x="1127.738425925926" y="509.0" />
+      <point x="112.44444444444457" y="244.5" />
+    </edge>
+    <edge source="model.Movie" target="model.Watchable">
+      <point x="-61.75" y="-88.0" />
+      <point x="0.0" y="28.0" />
+    </edge>
+    <edge source="model.Mediatheque" target="model.MediaItem">
+      <point x="146.625" y="-112.5" />
+      <point x="1241.25" y="939.0" />
+      <point x="1237.682098765432" y="939.0" />
+      <point x="1237.682098765432" y="529.0" />
+      <point x="1071.5162037037037" y="529.0" />
+      <point x="56.22222222222217" y="244.5" />
+    </edge>
+    <edge source="model.User" target="model.UserInterface">
+      <point x="-147.0" y="-64.5" />
+      <point x="553.6820987654321" y="760.0" />
+      <point x="534.25" y="760.0" />
+      <point x="0.0" y="40.0" />
+    </edge>
+    <edge source="model.UserInterface" target="model.MediaItem">
+      <point x="0.0" y="-40.0" />
+      <point x="534.25" y="519.0" />
+      <point x="930.960648148148" y="519.0" />
+      <point x="-84.33333333333337" y="244.5" />
+    </edge>
+    <edge source="model.Manager" target="model.ManagerInterface">
+      <point x="0.0" y="-28.0" />
+      <point x="0.0" y="40.0" />
+    </edge>
+    <edge source="model.Book" target="model.MediaItem">
+      <point x="-61.75" y="-88.0" />
+      <point x="1309.932098765432" y="519.0" />
+      <point x="1099.627314814815" y="519.0" />
+      <point x="84.33333333333348" y="244.5" />
+    </edge>
+    <edge source="model.Mediatheque" target="model.User">
+      <point x="-146.625" y="-112.5" />
+      <point x="948.0" y="939.0" />
+      <point x="700.6820987654321" y="939.0" />
+      <point x="0.0" y="64.5" />
+    </edge>
+    <edge source="model.AudioBook" target="model.Listernable">
+      <point x="61.75" y="-88.0" />
+      <point x="0.0" y="28.0" />
+    </edge>
+    <edge source="model.ManagerInterface" target="model.MediaItem">
+      <point x="0.0" y="-40.0" />
+      <point x="1018.1820987654321" y="539.0" />
+      <point x="1015.2939814814815" y="539.0" />
+      <point x="0.0" y="244.5" />
+    </edge>
+    <edge source="model.Mediatheque" target="model.Manager">
+      <point x="-48.875" y="-112.5" />
+      <point x="1045.75" y="939.0" />
+      <point x="1018.1820987654321" y="939.0" />
+      <point x="0.0" y="28.0" />
+    </edge>
+    <edge source="model.Book" target="model.Readable">
+      <point x="61.75" y="-88.0" />
+      <point x="0.0" y="28.0" />
+    </edge>
+    <edge source="model.Movie" target="model.MediaItem">
+      <point x="61.75" y="-88.0" />
+      <point x="232.0" y="509.0" />
+      <point x="902.849537037037" y="509.0" />
+      <point x="-112.44444444444446" y="244.5" />
+    </edge>
+    <edge source="model.User" target="model.MediaItem">
+      <point x="147.0" y="-64.5" />
+      <point x="847.6820987654321" y="760.0" />
+      <point x="799.7939814814815" y="760.0" />
+      <point x="799.7939814814815" y="539.0" />
+      <point x="987.1828703703704" y="539.0" />
+      <point x="-28.111111111111086" y="244.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="687.1428571428571" y="803.5714285714286" />
+  <SelectedNodes>
+    <node>model.ManagerInterface</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
   <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
 </Diagram>
 
